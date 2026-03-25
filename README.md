@@ -25,6 +25,7 @@ This project contains clean, beginner-friendly C implementations of core OS conc
 Each program is written in **C** and can be compiled using `gcc`:
 
 ```bash
+
 gcc filename.c -o outputname
 ./outputname
 ```
@@ -62,11 +63,11 @@ Want to improve this repo?
 3. 🛠️ Make your changes
 4. 📤 Submit a Pull Request
 
-Contributions can include:
+Contributions include:
 - New algorithms
-- Gantt chart visuals
-- Bug fixes or cleaner explanations
-- Translations or language ports (Python/Java)
+- Translations into Rust
+- 
+
 
 ---
 
